@@ -1,18 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Baby on Board!
+description: A blog about baby caring from a Nordic perspective
 baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
 url: "blog" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Annemarie
+user_description: New mom
+user_title: New mom
+email: annemarie86@gmail.com
+twitter_username: annemarie
+github_username:  annemarie
+gplus_username:  annemarie
+disqus_username:  annemarie
 
 # Build settings
 markdown: kramdown
